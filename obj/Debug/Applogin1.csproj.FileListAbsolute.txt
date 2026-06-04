@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\Applogin1\Applogin1\obj\Debug\Applogin1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Applogin1\Applogin1\obj\Debug\Applogin1.Properties.Resources.resources
+C:\Users\HP\source\repos\Applogin1\Applogin1\obj\Debug\Applogin1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Applogin1\Applogin1\obj\Debug\Applogin1.csproj.CoreCompileInputs.cache
